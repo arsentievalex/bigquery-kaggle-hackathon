@@ -1,5 +1,7 @@
 # Automating Construction Field Reports with BigQuery AI (BigQuery Kaggle Hackathon)
 
+> **Note:** I recommend viewing this in a [Google Colab notebook](https://colab.research.google.com/drive/1-uFeaq8J4y9fLhOkwYR6-unBVkhLPeJ0?usp=sharing), which supports rendering audio files.
+
 ## Project Overview
 
 Construction site inspections are essential for tracking progress, safety, and regulatory compliance. Inspectors typically capture observations through photos and voice recordings, as site conditions and limited time make detailed form-filling impractical. These photos and recordings are traditionally analyzed manually to compile field reports—a slow and labor-intensive process.
